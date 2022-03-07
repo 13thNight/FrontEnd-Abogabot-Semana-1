@@ -18,6 +18,10 @@ Este trabajo tiene como proposito crear la captura de requisitos y diseño UI/UX
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
+Target Audience
+
+![target](images/Target%20Audience.jpg)
+
 BPMN
 
 ![BPMN](images/abogabotbpmn.png)
